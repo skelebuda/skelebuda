@@ -8,8 +8,10 @@
 💼 Professional Experience
   I've had the opportunity to work with leading financial institutions, including:
   
-  Julius Baer – Compliance
+  InvestCloud – Product Management
+
   Partners Group – Business Applications
+
   UBS – AI Automation
 
 Currently, I'm focused on building my own venture in agentic automation, where I'm developing Lunnoa Labs. Our flagship product, Lunnoa Automate, is a self-hosted AI agent and workflow builder tailored for financial institutions in Switzerland.
